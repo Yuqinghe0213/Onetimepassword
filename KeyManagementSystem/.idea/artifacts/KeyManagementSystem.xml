@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="KeyManagementSystem">
+    <output-path>$PROJECT_DIR$/out/artifacts/KeyManagementSystem</output-path>
+    <root id="root">
+      <element id="archive" name="KeyManagementSystem.jar">
+        <element id="module-output" name="KeyManagementSystem" />
+      </element>
+      <element id="library" level="project" name="mysql-connector-java-5.1.41-bin" />
+    </root>
+  </artifact>
+</component>

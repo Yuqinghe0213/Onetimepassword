@@ -1,0 +1,18 @@
+This program is the desktop application of the system, it need a laptop with a camera and jdk 1.8
+
+1. Import project into JAVA IDE (IntelliJ is best)
+2. run the program.
+
+This program can achieved two process: user registration and password verification. Before run this program ,the server should run first and the apk of addroid app should be installation. 
+
+Registration:
+
+1.click "register" to create a new account
+2.complete the register form and submit
+3.show the seed to the app.
+
+Verification:
+
+1.login by username and password
+2.click "update" button.
+3.scan the password from app

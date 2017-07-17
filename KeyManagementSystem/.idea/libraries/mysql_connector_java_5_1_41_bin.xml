@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-5.1.41-bin">
+    <CLASSES>
+      <root url="jar://E:/编程软件包/mysql-connector-java-5.1.41/mysql-connector-java-5.1.41/mysql-connector-java-5.1.41-bin.jar!/" />
+      <root url="jar://E:/编程软件包/zxing-core.jar!/" />
+      <root url="jar://E:/编程软件包/slf4j-simple-1.7.2.jar!/" />
+      <root url="jar://E:/编程软件包/zxing-j2se-1.7.jar!/" />
+      <root url="jar://E:/编程软件包/WebCamJavaFXSampleSarcoxAPI-master/WebCamJavaFXSampleSarcoxAPI-master/WebCamCaptureJavaFx/libs/bridj-0.6.3-20130316.190111-13.jar!/" />
+      <root url="jar://E:/编程软件包/WebCamJavaFXSampleSarcoxAPI-master/WebCamJavaFXSampleSarcoxAPI-master/WebCamCaptureJavaFx/libs/slf4j-api-1.7.2.jar!/" />
+      <root url="jar://E:/编程软件包/WebCamJavaFXSampleSarcoxAPI-master/WebCamJavaFXSampleSarcoxAPI-master/WebCamCaptureJavaFx/libs/webcam-capture-0.3.10-RC7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
